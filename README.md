@@ -14,3 +14,19 @@ The name of the game I made is "Under the Sea". When you run the game, you can s
 * Therefore, once you play game well in the beginning, the game becomes easier after a certain point.
 
 * ### Screenshots
+
+#### 1. Initial screen
+
+![final_screenshot1](https://github.com/greish-done/Final-Project/assets/138358573/77c3f75d-c9de-4183-9acb-71ce3f50b8f2)
+
+#### 2. Screen during game
+
+![final_screenshot2](https://github.com/greish-done/Final-Project/assets/138358573/a9588edf-1fcc-457c-8ec6-0b04d0622da5)
+
+#### 3. Game over screen
+
+![final_screenshot3](https://github.com/greish-done/Final-Project/assets/138358573/53781c0f-9cf1-4b2a-91b9-fab9d668e622)
+
+#### 4. Game success screen
+
+![final_screenshot4](https://github.com/greish-done/Final-Project/assets/138358573/cc555129-3170-4718-89c8-9d343acad537)
