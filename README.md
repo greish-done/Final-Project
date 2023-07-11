@@ -13,7 +13,7 @@ The name of the game I made is "Under the Sea". When you run the game, you can s
 
 * Therefore, once you play game well in the beginning, the game becomes easier after a certain point.
 
-* ### Screenshots
+### Screenshots
 
 #### 1. Initial screen
 
